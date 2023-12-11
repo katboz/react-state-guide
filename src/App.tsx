@@ -11,7 +11,7 @@ function App() {
   // here we will have character it will hold character from api
   // and it's going to be an onject
   // type of state of character cannot be empty object, it needs to be specified
-  //we will specify the empty object as Character, it is empty object but we say its actually a Character object 
+  //we will spec ify the empty object as Character, it is empty object but we say its actually a Character object 
   const [character, setCharacter] = useState<Character>({} as Character);
   //we can alwys specify type in <> 
   const [isLoading, setIsLoading] = useState<boolean>(false);
