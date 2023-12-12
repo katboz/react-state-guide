@@ -8,7 +8,7 @@ position: relative;
 width: 340px;
 height: 420px;
 padding-bottom: 20px;
-background: lightblue;
+background: teal;
 border-radius:1rem;
 box-sizing: border-box;
 
